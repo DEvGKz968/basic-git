@@ -1,0 +1,1 @@
+#Hi I'm a python algorithmic beginner but in the future i'll profressional
